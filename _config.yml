@@ -65,7 +65,7 @@ header_transparent: false
 # content_width: "920px"
 
 # Google analytics
-google_analytics: G-9DDM93FC22
+google_analytics: [G-9DDM93FC22]
 
 # If you want to generate website sitemap, you can set true
 # sitemap: false
